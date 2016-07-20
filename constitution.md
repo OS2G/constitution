@@ -12,21 +12,28 @@ The object of RS0 shall be to provide an example for students forming recognized
 
 # ARTICLE III - Members
 
-Section 1. Selection. Members shall be selected by methods adopted by the Executive Committee.
+Section 1. Selection
+Members shall be selected by methods adopted by the Executive Committee.
 
-Section 2. **This organization does not discriminate in the selection of members or appointments when discrimination is defined as denying individuals membership or appointment on the basis of gender, age, disability, genetic information, race, color, religion, pregnancy, marital status, veteran’s status, national or ethnic origin, gender identity or expression, place of residence, political affiliation, or sexual orientation**
+Section 2
+**This organization does not discriminate in the selection of members or appointments when discrimination is defined as denying individuals membership or appointment on the basis of gender, age, disability, genetic information, race, color, religion, pregnancy, marital status, veteran’s status, national or ethnic origin, gender identity or expression, place of residence, political affiliation, or sexual orientation**
 
-Section 3. **Non-student participation. A student organization shall consist of at least five currently enrolled student members. Non-students will allowed to participate in any student organization activity, but will not be a voting member, or an elected or appointed officer of said organization. A non-student is someone who is not currently enrolled at the University of Nebraska—Lincoln for the fall or spring semester.**
+Section 3
+**Non-student participation. A student organization shall consist of at least five currently enrolled student members. Non-students will allowed to participate in any student organization activity, but will not be a voting member, or an elected or appointed officer of said organization. A non-student is someone who is not currently enrolled at the University of Nebraska—Lincoln for the fall or spring semester.**
 
-Section 4. Dues. The Executive Committee may prescribe membership dues.
+Section 4. Dues
+The Executive Committee may prescribe membership dues.
 
-Section 5. Revocation. Membership may be revoked in accordance with the procedures in the parliamentary authority or adopted by the Executive Committee.
+Section 5. Revocation
+Membership may be revoked in accordance with the procedures in the parliamentary authority or adopted by the Executive Committee.
 
-Section 6. Resignation. Members may resign from RSO by providing the Secretary with written notice.
+Section 6. Resignation
+Members may resign from RSO by providing the Secretary with written notice.
 
 # ARTICLE IV - Officers
 
-Section 1. Officers and Duties. The officers of RS0 shall be a President, a Vice-President, a Secretary, and a Treasurer. These officers shall perform the duties prescribed by this constitution and the parliamentary authority adopted by RS0.
+Section 1. Officers and Duties
+The officers of RS0 shall be a President, a Vice-President, a Secretary, and a Treasurer. These officers shall perform the duties prescribed by this constitution and the parliamentary authority adopted by RS0.
 
 A. President. The President shall preside over all RS0 and Executive Committee meetings and consult regularly with the faculty advisor.
 
@@ -36,7 +43,7 @@ C. Treasurer. The Treasurer shall collect and disperse all funds, report regular
 
 D. Secretary. The Secretary shall record and distribute minutes of meetings to all members and the faculty advisor within one week of the meeting, maintain a membership roster, notify members of meetings, and record members’ attendance at meetings.
 
-Section 2. Election.
+Section 2. Election
 
 A. Qualifications. Officers must be members.
 
@@ -46,34 +53,38 @@ C. Elections Procedures, Term of Office. The officers shall be elected by a majo
 
 D. Office-holding Limitations. No member shall hold more than one office at a time.
 
-Section 3. Vacancies. All vacancies, except a vacancy in the office of the President, shall be filled by a special election of RSO at its next regular meeting, provided three days’ notice is given before the election. If the office of President becomes vacant, the Vice-President shall become President for the remainder of the term.
+Section 3. Vacancies
+All vacancies, except a vacancy in the office of the President, shall be filled by a special election of RSO at its next regular meeting, provided three days’ notice is given before the election. If the office of President becomes vacant, the Vice-President shall become President for the remainder of the term.
 
-Section 4. Removal from Office.  
+Section 4. Removal from Office
 An officer may be removed from office by a two-thirds vote of those present and voting, provided that the Secretary notify the membership at least three days before the vote.
 
 # ARTICLE V - Meetings
 
-Section 1. Regular Meetings. Regular meetings shall be at the call of the Executive Committee, provided notice is given to the membership. The first meeting of the academic year shall be at the call of the President, provided one week’s notice is given to the membership. Electronic
-communications may be used as notice.
+Section 1. Regular Meetings
+Regular meetings shall be at the call of the Executive Committee, provided notice is given to the membership. The first meeting of the academic year shall be at the call of the President, provided one week’s notice is given to the membership. Electronic communications may be used as notice.
 
-Section 2. Annual Meetings. The last regular meeting of the calendar year shall be the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and for any other business that may arise.
+Section 2. Annual Meetings
+The last regular meeting of the calendar year shall be the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and for any other business that may arise.
 
-Section 3. Special Meetings. Special meetings may be called by the President or the Executive Committee and shall be called upon the written request of five members. The purpose of the meeting shall be stated in the call. Except in case of emergency, at least three days’ notice shall be given.
+Section 3. Special Meetings
+Special meetings may be called by the President or the Executive Committee and shall be called upon the written request of five members. The purpose of the meeting shall be stated in the call. Except in case of emergency, at least three days’ notice shall be given.
 
-Section 4. Quorum. Five members shall constitute a quorum.
+Section 4. Quorum
+Five members shall constitute a quorum.
 
 # ARTICLE VI - Executive Committee
 
-Section 1. Composition.  
+Section 1. Composition
 The officers shall constitute the Executive Committee.
 
-Section 2. Committees Duties and Powers.  
+Section 2. Committees Duties and Powers
 The Executive Committee shall have general supervision of the affairs of RS0 between its meetings, fix the hour and place of meetings, make recommendations to the membership, and perform such other duties specified in these bylaws. The Executive Committee shall be subject to the orders of the membership, and none of its acts shall conflict with action take by the membership.
 
-Section 3. Regular meetings.  
+Section 3. Regular meetings
 Regular meetings of the Executive Committee shall be at the call of the President, provided notice is given to the Committee. Special meetings of the Executive Committee shall be at the call of the President and shall be called upon the written request of three members of the Executive Committee.
 
-Section 4. Quorum.  
+Section 4. Quorum
 Three members of the Executive Committee shall constitute a quorum.
 
 # ARTICLE VII - Committees
