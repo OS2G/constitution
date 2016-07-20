@@ -2,9 +2,11 @@ Note: **Only boldface language is mandatory.** All other language can be changed
 
 SAMPLE CONSTITUTION FOR RECOGNIZED STUDENT ORGANIZATION
 
-# ARTICLE I - Name
+# ARTICLE I - Identity
 
-The name of this organization shall be the Sample Recognized Student Organization, hereinafter RSO.
+1. Name
+
+    The name of this organization shall be the Operating Systems and Open Source Group, herein referred to as the RSO or OS2G.
 
 # ARTICLE II - Object
 
@@ -44,7 +46,7 @@ The object of RSO shall be to provide an example for students forming recognized
 
     A. President
 
-    The President shall preside over all RSO and Executive Committee meetings and consult regularly with the faculty advisor.
+    The President shall preside over all General and Executive Committee meetings and consult regularly with the faculty advisor.
 
     B. Vice-President
 
@@ -52,11 +54,11 @@ The object of RSO shall be to provide an example for students forming recognized
 
     C. Treasurer
 
-    The Treasurer shall collect and disperse all funds, report regularly on RSO’s financial state to the Executive Committee, and develop an annual budget.
+    The Treasurer shall collect and disperse all funds, report regularly on RSO's financial state to the Executive Committee, and develop an annual budget.
 
     D. Secretary
 
-    The Secretary shall record and distribute minutes of meetings to all members and the faculty advisor within one week of the meeting, maintain a membership roster, notify members of meetings, and record members’ attendance at meetings.
+    The Secretary shall record and distribute minutes of meetings to all members and the faculty advisor within one week of the meeting's occurance, maintain a membership roster, notify members of meetings, and record members’ attendance at meetings.
 
 2. Election
 
@@ -100,7 +102,7 @@ The object of RSO shall be to provide an example for students forming recognized
 
 4. Quorum
 
-    Five members shall constitute a quorum.
+    Two thirds of the membership, rounded up, or a minimum of five members, whichever is greater, shall constitute a quorum.
 
 # ARTICLE VI - Executive Committee
 
@@ -110,7 +112,7 @@ The object of RSO shall be to provide an example for students forming recognized
 
 2. Committees Duties and Powers
 
-    The Executive Committee shall have general supervision of the affairs of RSO between its meetings, fix the hour and place of meetings, make recommendations to the membership, and perform such other duties specified in these bylaws. The Executive Committee shall be subject to the orders of the membership, and none of its acts shall conflict with action take by the membership.
+    The Executive Committee shall have general supervision of the affairs of the RSO between its meetings, determine the time and place of meetings, make recommendations to the membership, and perform such other duties specified in these bylaws. The Executive Committee shall be subject to the orders of the membership, and none of its acts shall conflict with action take by the membership.
 
 3. Regular meetings
 
@@ -130,29 +132,47 @@ Such committees, standing or special, shall be created as RSO or the Executive C
 
 # ARTICLE IX - Finance
 
-**RSO shall operate according to the rules and guidelines of a non-profit entity.**
+1. Non-profit
 
-**No part of the organization's net earnings will inure to the benefit of individuals. The RSO must establish that it will not be organized or operated for the benefit of private interests, such as the creator or the creator's family, shareholders of the organization, other designated individuals, or persons controlled directly or indirectly by such private interests.**
+    **RSO shall operate according to the rules and guidelines of a non-profit entity. No part of the organization's net earnings will inure to the benefit of individuals. The RSO must establish that it will not be organized or operated for the benefit of private interests, such as the creator or the creator's family, shareholders of the organization, other designated individuals, or persons controlled directly or indirectly by such private interests. The RSO shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purpose set forth in this document.**
 
-**The RSO shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purpose set forth in this document. The organization will not, as a substantial part of its activities, attempt to influence legislation (unless it elects to come under the provisions allowing certain lobbying expenditures) or participate to any extent in a political campaign for or against any candidate for public office. Notwithstanding any other provision of this constitution the RSO shall not carry on any other activities not permitted to be carried on by an organization exempt Federal Income Tax under Section 501 of the Internal Revenue Code of 1986 (or corresponding provision of any future United States Internal Revenue laws). Organizational monies will be handled by Student Organizational Financial Services, regardless of source.**
+2. Lobbying
 
-# ARTICLE X - Process for dissolution
+    **The organization will not, as a substantial part of its activities, attempt to influence legislation (unless it elects to come under the provisions allowing certain lobbying expenditures) or participate to any extent in a political campaign for or against any candidate for public office.**
 
-**Upon the dissolution of the RSO the officers and advisors shall after paying or making provisions for the payment of all liabilities of the RSO, dispose of all the assets of RSO exclusively for charitable, educational, religious, or scientific purpose as shall at the time qualify as an exempt organization. Under section 501C of the Internal Revenue Code of 1986 (or corresponding provision of any future United States Internal Revenue Law), as the officers and advisors shall determine. Any such assets not disposed of shall be disposed of by the Office of Vice Chancellor of Student Affairs, exclusively for such purposes to such organization(s), as determined by the Office of Vice Chancellor of Student Affairs.**
+3. Tax Exemption
 
-# ARTICLE XI - Parliamentary Authority
+    **Notwithstanding any other provision of this constitution the RSO shall not carry on any other activities not permitted to be carried on by an organization exempt Federal Income Tax under Section 501 of the Internal Revenue Code of 1986 (or corresponding provision of any future United States Internal Revenue laws).**
+
+4. SOFS
+
+    **Organizational monies will be handled by Student Organizational Financial Services, regardless of source.**
+
+5. Dissolution
+
+    **Upon the dissolution of the RSO the officers and advisors shall after paying or making provisions for the payment of all liabilities of the RSO, dispose of all the assets of RSO exclusively for charitable, educational, religious, or scientific purpose as shall at the time qualify as an exempt organization. Under section 501C of the Internal Revenue Code of 1986 (or corresponding provision of any future United States Internal Revenue Law), as the officers and advisors shall determine. Any such assets not disposed of shall be disposed of by the Office of Vice Chancellor of Student Affairs, exclusively for such purposes to such organization(s), as determined by the Office of Vice Chancellor of Student Affairs.**
+
+# ARTICLE X - Parliamentary Authority
 
 The rules contained in the current edition of *Robert's Rules of Order Newly* Revised shall govern RSO in all cases to which they are applicable and in which they are not inconsistent with the constitution and any special rules of order RSO may adopt.
 
+# ARTICLE XI - RSO Elections
+
+1. ASUN Definitions and deadlines
+
+    **All RSOs must be categorized as a Fall, Winter, or Spring Organization with ASUN and Student Involvement. RSO officers must take office on one of the following dates: On the first day classes commence fall semester (Fall Organization), the first day classes commence spring semester (Winter Organization), or the second Tuesday of April (Spring Organization). All paperwork will be filed at those times to remain in compliance.**
+
+2. RSO Categorization
+
+    OS2G shall be categorized as a Winter Organization as defined by ASUN and Student Involvement.
+
 # ARTICLE XII - Amendment
 
-This constitution may be amended by a two-thirds vote provided that the amendment has been submitted in writing at the previous regular meeting. **All amendments must be approved by ASUN.**
+1. This constitution may be amended by a two-thirds majority vote, rounded up, provided that the amendment has been submitted in writing at the previous General meeting.
 
-# ARTICLE XIII - RSO Elections
+2. **All amendments must be approved by ASUN.**
 
-**All RSOs must be categorized as a Fall, Winter, or Spring Organization with ASUN and Student Involvement. RSO officers must take office on one of the following dates: On the first day classes commence fall semester (Fall Organization), the first day classes commence spring semester (Winter Organization), or the second Tuesday of April (Spring Organization). All paperwork will be filed at those times to remain in compliance."**
-
-# ARTICLE XIV - Enaction
+# ARTICLE XIII - Enaction
 
 1. **This constitution shall go into effect on \_\_\_\_-\_\_-\_\_**
 
