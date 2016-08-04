@@ -8,11 +8,20 @@ SAMPLE CONSTITUTION FOR RECOGNIZED STUDENT ORGANIZATION
 
     The name of this organization shall be the Operating Systems and Open Source Group, herein referred to as the RSO or OS2G.
 
-# ARTICLE II - Object
+2. Purpose
 
-The object of RSO shall be to provide an example for students forming recognized student organizations to write an efficient constitution.
+    The purpose of the Operating Systems and Open Source Group, is to:
 
-# ARTICLE III - Membership
+      - Provide a venue for discussions and presentations on the following topics:
+        - Operating systems
+        - Open Source (OSS) and Free Software (FOSS)
+        - System Administration
+        - Computer Networking
+        - Computing Security
+      - Provide a support network for the use and development of OSS and FOSS
+      - Educate the public about Open Source and Free Software
+
+# ARTICLE II - Membership
 
 1. Selection
 
@@ -36,13 +45,13 @@ The object of RSO shall be to provide an example for students forming recognized
 
 6. Resignation
 
-    Members may resign from the RSO by providing the Secretary with written notice.
+    Members may resign from the RSO by providing the Secretary with written or email notice.
 
-# ARTICLE IV - Officers
+# ARTICLE III - Officers
 
 1. Officers and Duties
 
-    The officers of RSO shall be a President, a Vice-President, a Secretary, and a Treasurer. These officers shall perform the duties prescribed by this constitution and the parliamentary authority adopted by RSO.
+    The officers of OS2G shall be the President, the Vice-President, the Secretary, and the Treasurer. These officers shall perform the duties prescribed by this constitution and the parliamentary authority adopted by the OS2G.
 
     A. President
 
@@ -72,7 +81,7 @@ The object of RSO shall be to provide an example for students forming recognized
 
     C. Elections Procedures, Term of Office
 
-    The officers shall be elected by a majority of those present and voting. Officers shall be elected by ballot to serve for one year or until their successors are elected, and their terms shall begin at the end of the meeting at which they are elected. Candidates for each office shall give a two-minute speech and then leave the room while the nominees are discussed. Ballots shall be counted by a teller committee appointed by the President. The Executive Committee may adopt more specific rules and procedures in accordance with these bylaws.
+    The officers shall be elected by a majority, rounded up, of those present and voting. Officers shall be elected by ballot to serve for one year or until their successors are elected, and their terms shall begin at the end of the meeting at which they are elected. Candidates for each office shall give a two-minute speech and then leave the room while the nominees are discussed. Ballots shall be counted by a teller committee appointed by the President. The Executive Committee may adopt more specific rules and procedures in accordance with these bylaws.
 
     D. Office-holding Limitations
 
@@ -80,17 +89,17 @@ The object of RSO shall be to provide an example for students forming recognized
 
 3. Vacancies
 
-    All vacancies, except a vacancy in the office of the President, shall be filled by a special election of RSO at its next regular meeting, provided three days' notice is given before the election. If the office of President becomes vacant, the Vice-President shall become President for the remainder of the term.
+    All vacancies, except a vacancy in the office of the President, shall be filled by a special election of RSO at its next regular meeting one week after notice is given before the election. If the office of President becomes vacant, the Vice-President shall become President for the remainder of the term.
 
 4. Removal from Office
 
-    An officer may be removed from office by a two-thirds vote of those present and voting, provided that the Secretary notify the membership at least three days before the vote.
+    An officer may be removed from office by a two-thirds vote, rounded up,  of those present and voting, provided that the Secretary notify the membership at least three days before the vote.
 
-# ARTICLE V - Meetings
+# ARTICLE IV - Meetings
 
 1. Regular Meetings
 
-    Regular meetings shall be at the call of the Executive Committee, provided notice is given to the membership. The first meeting of the academic year shall be at the call of the President, provided one week's notice is given to the membership. Electronic communications may be used as notice.
+    Regular meetings shall be at the call of the Executive Committee, provided one week's notice is given to the membership. The first meeting of the academic year shall be at the call of the President, provided one week's notice is given to the membership. Electronic communications may be used as notice.
 
 2. Annual Meetings
 
@@ -98,13 +107,13 @@ The object of RSO shall be to provide an example for students forming recognized
 
 3. Special Meetings
 
-    Special meetings may be called by the President or the Executive Committee and shall be called upon the written request of five members. The purpose of the meeting shall be stated in the call. Except in case of emergency, at least three days' notice shall be given.
+    Special meetings may be called by the President or the Executive Committee and shall be called upon the written request of five members. The purpose of the meeting shall be stated in the call. Except in case of emergency, at least one week's notice shall be given.
 
 4. Quorum
 
     Two thirds of the membership, rounded up, or a minimum of five members, whichever is greater, shall constitute a quorum.
 
-# ARTICLE VI - Executive Committee
+# ARTICLE V - Executive Committee
 
 1. Composition
 
@@ -116,21 +125,21 @@ The object of RSO shall be to provide an example for students forming recognized
 
 3. Regular meetings
 
-    Regular meetings of the Executive Committee shall be at the call of the President, provided notice is given to the Committee. Special meetings of the Executive Committee shall be at the call of the President and shall be called upon the written request of three members of the Executive Committee.
+    Regular meetings of the Executive Committee shall be at the call of the President, provided notice is given to the Executive Committee. Special meetings of the Executive Committee shall be at the call of the President and shall be called upon the written request of three members of the Executive Committee.
 
 4. Quorum
 
     Three members of the Executive Committee shall constitute a quorum.
 
-# ARTICLE VII - Committees
+# ARTICLE VI - Committees
 
-Such committees, standing or special, shall be created as RSO or the Executive Committee shall from time to time deem necessary to carry on the work of RSO. The President shall appoint members of all committees. The Vice-President shall ex officio a member of all committees.
+Such committees, standing or special, shall be created as OS2G or the Executive Committee deem necessary to carry on the work of RSO.  The Vice-President shall ex officio a member of all committees. Any such sub-committee may be held accountable for their actions by the Executive Committee.
 
-# ARTICLE VIII - Advisor
+# ARTICLE VII - Advisor
 
 **RSO shall have one Primary Advisor, which must be a regular Academic/Administrative or Managerial/Professional faculty/staff member of the University of Nebraska—Lincoln, and may have any number of Secondary Advisors, which may be regular Academic/Administrative, Managerial/Professional, or Office/Service staff members or Graduate Assistants of the University of Nebraska—Lincoln**
 
-# ARTICLE IX - Finance
+# ARTICLE VIII - Finance
 
 1. Non-profit
 
@@ -152,11 +161,11 @@ Such committees, standing or special, shall be created as RSO or the Executive C
 
     **Upon the dissolution of the RSO the officers and advisors shall after paying or making provisions for the payment of all liabilities of the RSO, dispose of all the assets of RSO exclusively for charitable, educational, religious, or scientific purpose as shall at the time qualify as an exempt organization. Under section 501C of the Internal Revenue Code of 1986 (or corresponding provision of any future United States Internal Revenue Law), as the officers and advisors shall determine. Any such assets not disposed of shall be disposed of by the Office of Vice Chancellor of Student Affairs, exclusively for such purposes to such organization(s), as determined by the Office of Vice Chancellor of Student Affairs.**
 
-# ARTICLE X - Parliamentary Authority
+# ARTICLE IX - Parliamentary Authority
 
-The rules contained in the current edition of *Robert's Rules of Order Newly* Revised shall govern RSO in all cases to which they are applicable and in which they are not inconsistent with the constitution and any special rules of order RSO may adopt.
+The rules contained in the current edition of *Robert's Rules of Order Newly Revised* shall govern the RSO in all cases to which they are applicable and in which they are not inconsistent with the constitution and any special rules of order the RSO may adopt.
 
-# ARTICLE XI - RSO Elections
+# ARTICLE X - RSO Elections
 
 1. ASUN Definitions and deadlines
 
@@ -166,7 +175,7 @@ The rules contained in the current edition of *Robert's Rules of Order Newly* Re
 
     OS2G shall be categorized as a Winter Organization as defined by ASUN and Student Involvement.
 
-# ARTICLE XII - Amendment
+# ARTICLE XI - Amendment
 
 1. This constitution may be amended by a two-thirds majority vote, rounded up, provided that the amendment has been submitted in writing at the previous General meeting.
 
