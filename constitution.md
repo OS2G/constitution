@@ -1,8 +1,6 @@
-Note: **Only boldface language is mandatory.** All other language can be changed to meet the needs of your organization.
+# Operating Systems and Open Source Group
 
-SAMPLE CONSTITUTION FOR RECOGNIZED STUDENT ORGANIZATION
-
-# ARTICLE I - Identity
+## ARTICLE I - Identity
 
 1. Name
 
@@ -21,7 +19,7 @@ SAMPLE CONSTITUTION FOR RECOGNIZED STUDENT ORGANIZATION
       - Provide a support network for the use and development of OSS and FOSS
       - Educate the public about Open Source and Free Software
 
-# ARTICLE II - Membership
+## ARTICLE II - Membership
 
 1. Selection
 
@@ -47,7 +45,7 @@ SAMPLE CONSTITUTION FOR RECOGNIZED STUDENT ORGANIZATION
 
     Members may resign from the RSO by providing the Secretary with written or email notice.
 
-# ARTICLE III - Officers
+## ARTICLE III - Officers
 
 1. Officers and Duties
 
@@ -95,7 +93,7 @@ SAMPLE CONSTITUTION FOR RECOGNIZED STUDENT ORGANIZATION
 
     An officer may be removed from office by a two-thirds vote, rounded up,  of those present and voting, provided that the Secretary notify the membership at least three days before the vote.
 
-# ARTICLE IV - Meetings
+## ARTICLE IV - Meetings
 
 1. Regular Meetings
 
@@ -113,7 +111,7 @@ SAMPLE CONSTITUTION FOR RECOGNIZED STUDENT ORGANIZATION
 
     Two thirds of the membership, rounded up, or a minimum of five members, whichever is greater, shall constitute a quorum.
 
-# ARTICLE V - Executive Committee
+## ARTICLE V - Executive Committee
 
 1. Composition
 
@@ -131,15 +129,15 @@ SAMPLE CONSTITUTION FOR RECOGNIZED STUDENT ORGANIZATION
 
     Three members of the Executive Committee shall constitute a quorum.
 
-# ARTICLE VI - Committees
+## ARTICLE VI - Committees
 
 Such committees, standing or special, shall be created as OS2G or the Executive Committee deem necessary to carry on the work of RSO.  The Vice-President shall ex officio a member of all committees. Any such sub-committee may be held accountable for their actions by the Executive Committee.
 
-# ARTICLE VII - Advisor
+## ARTICLE VII - Advisor
 
 **RSO shall have one Primary Advisor, which must be a regular Academic/Administrative or Managerial/Professional faculty/staff member of the University of Nebraska—Lincoln, and may have any number of Secondary Advisors, which may be regular Academic/Administrative, Managerial/Professional, or Office/Service staff members or Graduate Assistants of the University of Nebraska—Lincoln**
 
-# ARTICLE VIII - Finance
+## ARTICLE VIII - Finance
 
 1. Non-profit
 
@@ -161,11 +159,11 @@ Such committees, standing or special, shall be created as OS2G or the Executive 
 
     **Upon the dissolution of the RSO the officers and advisors shall after paying or making provisions for the payment of all liabilities of the RSO, dispose of all the assets of RSO exclusively for charitable, educational, religious, or scientific purpose as shall at the time qualify as an exempt organization. Under section 501C of the Internal Revenue Code of 1986 (or corresponding provision of any future United States Internal Revenue Law), as the officers and advisors shall determine. Any such assets not disposed of shall be disposed of by the Office of Vice Chancellor of Student Affairs, exclusively for such purposes to such organization(s), as determined by the Office of Vice Chancellor of Student Affairs.**
 
-# ARTICLE IX - Parliamentary Authority
+## ARTICLE IX - Parliamentary Authority
 
 The rules contained in the current edition of *Robert's Rules of Order Newly Revised* shall govern the RSO in all cases to which they are applicable and in which they are not inconsistent with the constitution and any special rules of order the RSO may adopt.
 
-# ARTICLE X - RSO Elections
+## ARTICLE X - RSO Elections
 
 1. ASUN Definitions and deadlines
 
@@ -175,13 +173,13 @@ The rules contained in the current edition of *Robert's Rules of Order Newly Rev
 
     OS2G shall be categorized as a Winter Organization as defined by ASUN and Student Involvement.
 
-# ARTICLE XI - Amendment
+## ARTICLE XI - Amendment
 
 1. This constitution may be amended by a two-thirds majority vote, rounded up, provided that the amendment has been submitted in writing at the previous General meeting.
 
 2. **All amendments must be approved by ASUN.**
 
-# ARTICLE XIII - Enaction
+## ARTICLE XIII - Enaction
 
 1. **This constitution shall go into effect on \_\_\_\_-\_\_-\_\_**
 
