@@ -31,7 +31,7 @@
 
 3. **Non-student participation**
 
-    **A student organization shall consist of at least five currently enrolled student members. Non-students will** be **allowed to participate in any student organization activity, but will not be a voting member, or an elected or appointed officer of said organization. A non-student is someone who is not currently enrolled at the University of Nebraska—Lincoln for the fall or spring semester.**
+    **A student organization shall consist of at least five currently enrolled student members. Non-students will** be **allowed to participate in any student organization activity, but will not be a voting member, or an elected or appointed officer of said organization. A non-student is someone who is not currently enrolled at the University of Nebraska—Lincoln.**
 
 4. Dues
 
@@ -141,7 +141,7 @@ Such committees, standing or special, shall be created as OS2G or the Executive 
 
 1. Non-profit
 
-    **RSO shall operate according to the rules and guidelines of a non-profit entity. No part of the organization's net earnings will inure to the benefit of individuals. The RSO must establish that it will not be organized or operated for the benefit of private interests, such as the creator or the creator's family, shareholders of the organization, other designated individuals, or persons controlled directly or indirectly by such private interests. The RSO shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purpose set forth in this document.**
+    **RSOs shall operate according to the rules and guidelines of a non-profit entity. No part of the organization’s net earnings will inure to the benefit of individuals. The RSO must establish that it will not be organized or operated for the benefit of private interests, such as the creator or the creator’s family, shareholders of the organization, other designated individuals, or persons controlled directly or indirectly by such private interests. The RSO shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purpose set forth in this document. The organization will not, as a substantial part of its activities, attempt to influence legislation (unless it elects to come under the provisions allowing certain lobbying expenditures) or participate to any extent in a political campaign for or against any candidate for public office.  Notwithstanding any other provision of this constitution the RSO shall not carry on any other activities not permitted to be carried on by an organization exempt Federal Income Tax under Section 501 of the Internal Revenue Code of 1986 (or corresponding provision of any future United States Internal Revenue laws). Organizational monies will be handled by Student Organizational Financial Services, regardless of source.**
 
 2. Lobbying
 
@@ -167,7 +167,7 @@ The rules contained in the current edition of *Robert's Rules of Order Newly Rev
 
 1. ASUN Definitions and deadlines
 
-    **All RSOs must be categorized as a Fall, Winter, or Spring Organization with ASUN and Student Involvement. RSO officers must take office on one of the following dates: On the first day classes commence fall semester (Fall Organization), the first day classes commence spring semester (Winter Organization), or the second Tuesday of April (Spring Organization). All paperwork will be filed at those times to remain in compliance.**
+    **All RSOs must be categorized as a Fall, Winter, or Spring Organization with ASUN and Student Involvement. RSO officers must take office on one of the following dates: On the first day classes commence fall semester (Fall Organization), the first day classes commence spring semester (Winter Organization), or the second Tuesday of April (Spring Organization). All paperwork will be filed at those times to remain in compliance. This RSO is a Winter organization. Elections and appointments must be completed before officers take office.**
 
 2. RSO Categorization
 
@@ -177,7 +177,9 @@ The rules contained in the current edition of *Robert's Rules of Order Newly Rev
 
 1. This constitution may be amended by a two-thirds majority vote, rounded up, provided that the amendment has been submitted in writing at the previous General meeting.
 
-2. **All amendments must be approved by ASUN.**
+2. **All amendments must be ASUN approved through a resubmission process on NVolveU.**
+
+3. Supremacy Clause: **In the event that this Constitution’s wording does not match the required passages outlined in the ASUN bylaws, this organization recognizes that it is still subject to the required passages outlined in the ASUN bylaws, including in any cases that might arise in front of the Student Court.**
 
 ## ARTICLE XIII - Enaction
 
