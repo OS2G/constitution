@@ -1,6 +1,6 @@
-# Operating Systems and Open Source Group
+# The Constitution for the Operating Systems and Open Source Group
 
-## ARTICLE I - Identity
+## ARTICLE I - Name & Purpose
 
 1. Name
 
@@ -19,9 +19,13 @@
       - Provide a support network for the use and development of OSS and FOSS
       - Educate the public about Open Source and Free Software
 
+3. Affiliations
+
+    OS2G is not affiliated with any local or national organizations.
+
 ## ARTICLE II - Membership
 
-1. Selection
+1. Eligibility
 
     Members shall be selected by methods adopted by the Executive Committee.
 
@@ -67,7 +71,7 @@
 
     The Secretary shall record and distribute minutes of meetings to all members and the faculty advisor within one week of the meeting's occurance, maintain a membership roster, notify members of meetings, and record members’ attendance at meetings.
 
-2. Election
+2. Elections
 
     A. Qualifications
 
@@ -137,7 +141,7 @@ Such committees, standing or special, shall be created as OS2G or the Executive 
 
 **RSO shall have one Primary Advisor, which must be a regular Academic/Administrative or Managerial/Professional faculty/staff member of the University of Nebraska—Lincoln, and may have any number of Secondary Advisors, which may be regular Academic/Administrative, Managerial/Professional, or Office/Service staff members or Graduate Assistants of the University of Nebraska—Lincoln**
 
-## ARTICLE VIII - Finance
+## ARTICLE VIII - Finances
 
 1. Non-profit
 
