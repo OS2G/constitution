@@ -35,7 +35,7 @@
 
 3. **Non-student participation**
 
-    **A student organization shall consist of at least five currently enrolled student members. Non-students will** be **allowed to participate in any student organization activity, but will not be a voting member, or an elected or appointed officer of said organization. A non-student is someone who is not currently enrolled at the University of Nebraska—Lincoln.**
+    **A student organization shall consist of at least five currently enrolled student members. Non-students will be allowed to participate in any student organization activity, but will not be a voting member, or an elected or appointed officer of said organization. A non-student is someone who is not currently enrolled at the University of Nebraska—Lincoln.**
 
 4. Dues
 
@@ -75,7 +75,7 @@
 
     A. Qualifications
 
-    Officers must be members.
+    Officers must be a member and a currently enrolled student.
 
     B. Nominations
 
