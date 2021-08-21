@@ -27,7 +27,7 @@
 
 1. Eligibility
 
-    To be a member of OS2G, one must be a student at the University of Nebraska—Lincoln and attend at least four meetings in a single semester. A member is eligible to vote for officers in a given semester if they have attended at least four meetings in that semester, prior to the annual meeting.
+    To be a member of OS2G, one must be a student at the University of Nebraska—Lincoln and attend at least four meetings in a single semester. A member is eligible to vote for officers in a given semester if they have attended at least four meetings in that semester, prior to the annual election meeting.
 
 2. Non-discrimination
 
@@ -79,7 +79,7 @@
 
     B. Nominations
 
-    Nominations shall open one week prior to the annual meeting.
+    Nominations shall open one week prior to the annual election meeting.
 
     C. Elections Procedures, Term of Office
 
@@ -103,9 +103,9 @@
 
     Regular meetings shall be at the call of the Executive Committee, provided one week's notice is given to the membership. The first meeting of the academic year shall be at the call of the President, provided one week's notice is given to the membership. Electronic communications may be used as notice.
 
-2. Annual Meetings
+2. Annual Election Meetings
 
-    The last regular meeting of the calendar year shall be the annual meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and for any other business that may arise. This meeting shall occur on the week before final exams in the fall semester.
+    The last regular meeting of the calendar year shall be the annual election meeting and shall be for the purpose of electing officers, receiving reports of officers and committees, and for any other business that may arise. This meeting shall occur on the week before final exams in the fall semester.
 
 3. Special Meetings
 
